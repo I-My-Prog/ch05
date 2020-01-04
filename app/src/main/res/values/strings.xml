@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ch05</string>
+    <string name="janken_text">じゃんけん</string>
+    <string name="back_text">戻る</string>
 </resources>
